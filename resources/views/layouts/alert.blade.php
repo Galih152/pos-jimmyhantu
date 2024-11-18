@@ -7,5 +7,4 @@
             <p>{{ $message }}</p>
         </div>
     </div>
-    //test masuk commit 
 @endif
